@@ -2,10 +2,6 @@
 
 A simple cryptocurrency price tracker application built using React and the CoinGecko API. This app allows users to view real-time prices, market data, and detailed statistics for various cryptocurrencies.
 
-## Demo
-
-Check out the live demo [here](#).
-
 ## Table of Contents
 
 - [Features](#feature)
