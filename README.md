@@ -4,12 +4,12 @@ A simple cryptocurrency price tracker application built using React and the Coin
 
 ## Table of Contents
 
-- [Features](#feature)
-- [Installation](#installatio)
-- [Usage](#usag)
-- [Technologies Used](#technologies)
-- [API Reference](#api)
-- [Contributing](#contributin)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [API Reference](#api-reference)
+- [Contributing](#contributing)
 
 ## Features
 
