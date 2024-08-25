@@ -59,6 +59,14 @@ The app uses the CoinGecko API to fetch cryptocurrency data.
   - `/coins/markets` - Fetches market data for all cryptocurrencies.
   - `/coins/{id}` - Fetches detailed data for a specific cryptocurrency.
 
+## Screenshots
+
+![Main page](https://github.com/user-attachments/assets/cffbc7a3-2eb7-42f8-bcf4-797ac3d31356)
+*Main Page showing a list of cryptocurrencies and their details.*
+
+![Detail Page](https://github.com/user-attachments/assets/1cf3806b-8aec-4503-888e-0265bcd6f643)
+*Detail Page for a specific cryptocurrency.*
+
 ## Contributing
 
 To run this blog locally:
